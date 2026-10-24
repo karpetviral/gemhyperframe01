@@ -1,0 +1,10 @@
+{
+  "name": "hyperframes-test",
+  "version": "1.0.0",
+  "scripts": {
+    "render": "node render.js"
+  },
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}
